@@ -1,0 +1,4 @@
+this is ref1
+cat > ref2.txt
+this is ref2
+:q
